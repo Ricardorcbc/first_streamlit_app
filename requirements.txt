@@ -1,5 +1,6 @@
 # requirements.txt
 snowflake-connector-phyton
+'pyarrow<8.1.0,>=8.0.0; extra == "pandas"'
 cffi==1.15.0
 
 pyarrow<8.1.0,>=8.0.0
