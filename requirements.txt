@@ -1,8 +1,4 @@
 # requirements.txt
-snowflake-connector-phyton
-'pyarrow<8.1.0,>=8.0.0; extra == "pandas"'
+snowflake-connector-python
 cffi==1.15.0
-
-pyarrow<8.1.0,>=8.0.0
-
-streamlit >= 1.9.2
+pyarrow==6.0.1
